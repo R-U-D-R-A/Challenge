@@ -1,7 +1,7 @@
 # Instructions
 
 ### How to run:
-1. At first download the model folder from this [link](https://drive.google.com/drive/folders/1zpIGSyokzJx_UDetiFMI3twkselyvjGk?usp=sharing) and keep it in the same directory.
+1. At first download contents from this [link](https://drive.google.com/drive/folders/1zpIGSyokzJx_UDetiFMI3twkselyvjGk?usp=sharing) create a folder model and keep all the downloaded things in the model.
 2. Create a environment of python version 3.6.9. Run the following code if doing through anaconda: conda create -n challenge python==3.6.9
 3. Install the dependencies in the environment. Run the following command: pip install -r requirements.txt
 4. To do sentiment analysis run the python script: python run.py.
